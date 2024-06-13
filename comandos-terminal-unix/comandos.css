@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.tabela th {
+    background: green;
+}
